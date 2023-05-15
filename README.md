@@ -1,4 +1,4 @@
-# Faker_Presentation
+# Using The Faker Package to Solve Real Challenges with Synthetic Data
 How we can use the Faker Package to augment data, build ethical tests, and make life easier.
 
 ## Installation
