@@ -11,6 +11,10 @@ pip install faker
 
 ## Basic Usage
 
+Faker's documentation can be found [here](https://faker.readthedocs.io/en/master/). It is a fantastic resource, and I highly recommend you check it out.
+
+
+
 Here is a simple example of how to use Faker to generate a name, address, and email.
 
 ```python
