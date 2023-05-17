@@ -13,6 +13,7 @@ pip install faker
 
 Faker's documentation can be found [here](https://faker.readthedocs.io/en/master/). It is a fantastic resource, and I highly recommend you check it out.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grahamwatersdatascientist/)
 
 
 Here is a simple example of how to use Faker to generate a name, address, and email.
